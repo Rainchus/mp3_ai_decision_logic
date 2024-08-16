@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "mp3.h": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "stdlib.h": "c"
+    }
+}
